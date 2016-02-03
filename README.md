@@ -1,4 +1,4 @@
-Example Julia package repo.
+Primer repozitorija za domačo nalogo iz numerične matematike
 
 [![Example](http://pkg.julialang.org/badges/Example_0.3.svg)](http://pkg.julialang.org/?pkg=Example&ver=0.3)
 [![Example](http://pkg.julialang.org/badges/Example_0.4.svg)](http://pkg.julialang.org/?pkg=Example&ver=0.4)
